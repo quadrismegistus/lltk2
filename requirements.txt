@@ -1,0 +1,4 @@
+django-micro
+django-extensions
+ipython
+jupyter
