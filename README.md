@@ -1,3 +1,5 @@
+> ⚠️ **Deprecated — superseded by [lltk](https://github.com/quadrismegistus/lltk).** Kept for reference; archived and read-only.
+
 # lltk2
 
 Literary Language Toolkit V2
